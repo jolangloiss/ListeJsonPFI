@@ -1,7 +1,7 @@
-[{"id_etudiant": "00", "nom":"Aucun étudiant sélectionné", "session": "1", "cours": []},
+{"etudiant":[{"id_etudiant": "00", "nom":"Aucun étudiant sélectionné", "session": "1", "cours": []},
 {"id_etudiant": "01", "nom":"Jean", "session": "1", "cours": ["Prog1"]},
 {"id_etudiant": "02", "nom":"Alice", "session": "2", "cours": ["Prog2"]},
 {"id_etudiant": "03", "nom":"Robert", "session": "1", "cours": ["Prog1"]},
 {"id_etudiant": "04", "nom":"Martin", "session": "1", "cours": ["Prog1"]},
 {"id_etudiant": "05", "nom":"Ginette", "session": "2", "cours": ["Prog2"]},
-{"id_etudiant": "06", "nom":"Maryse", "session": "2", "cours": ["Prog2"]}]
+{"id_etudiant": "06", "nom":"Maryse", "session": "2", "cours": ["Prog2"]}]}
